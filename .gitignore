@@ -1,0 +1,11 @@
+# Large data
+*.nii
+*.nii.gz
+# For matlab autosaves
+*.asv
+
+# For
+
+# Temporary
+tmp/
+scratch/
